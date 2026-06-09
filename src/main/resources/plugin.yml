@@ -1,5 +1,5 @@
 name: BossBarNotify
-version: 1.0-Folia
+version: ${version}
 main: pastelito.dev.bossBarNotify.BossBarNotify
 api-version: '1.21'
 folia-supported: true
